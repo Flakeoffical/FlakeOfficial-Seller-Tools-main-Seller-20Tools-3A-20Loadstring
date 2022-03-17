@@ -1,10 +1,10 @@
 --Flake Alt Control
 ------------------------important varibles------------------------------------------------------------
 
-rbxname = "Example"
+rbxname = "Coolgamer9560"
 local prefix = ":"
-local LPlayer = game.Players.E -- your name on my name (maxbrh1)
-messageLL = "maxbr1 on top" 
+local LPlayer = game.Players.E -- your name on my name (Coolgamer9560)
+messageLL = "Flake Alt Control on top" 
 speed = 1 --how fast tweengoto is 
 render1 = false --if alts auto unrender when excuted
 resettime = 5.4 --how long it will take to teleport alts back to cordinates noclip command
